@@ -1,0 +1,25 @@
+{
+  "name": "freeeeg32js",
+  "version": "1.0.0",
+  "description": "FreeEEG32 in the browser! A simple, optimal data streaming tool for a high throughput device.",
+  "main": "freeeeg32.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brainsatplay/freeeeg32js.git"
+  },
+  "keywords": [
+    "FreeEEG32",
+    "eeg",
+    "serial",
+    "usb"
+  ],
+  "author": "Joshua Brewster",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/brainsatplay/freeeeg32js/issues"
+  },
+  "homepage": "https://github.com/brainsatplay/freeeeg32js#readme"
+}
